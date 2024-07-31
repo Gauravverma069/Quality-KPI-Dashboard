@@ -146,7 +146,7 @@ prod_button = st.sidebar.button("Append Production Output to MySQL Server")
 if prod_button:
     # Create a connection to the MySQL database
     # Replace 'username', 'password', 'localhost', 'database_name' with your actual credentials
-    database_url = 'mysql+pymysql://root:123%40Sepanchal@localhost/quality_db'
+    database_url = 'mysql+pymysql://root:123%40XXX@localhost/quality_db'
     engine = create_engine(database_url)
 
     # Append the DataFrame to the database table
@@ -271,7 +271,7 @@ with st.container(border=True):
         if def_button:
             # Create a connection to the MySQL database
             # Replace 'username', 'password', 'localhost', 'database_name' with your actual credentials
-            database_url = 'mysql+pymysql://root:123%40Sepanchal@localhost/quality_db'
+            database_url = 'mysql+pymysql://root:123%40XXX@localhost/quality_db'
             engine = create_engine(database_url)
 
             # Append the DataFrame to the database table
