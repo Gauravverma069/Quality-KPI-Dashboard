@@ -29,6 +29,21 @@ The Streamlit app serves as the user interface for inputting data related to pro
 - Defect
 - Part Number
 - Quantity
+  
+
+#### **Production Output to MySQL Server**
+https://github.com/user-attachments/assets/69605d3b-c9c0-49c4-8d8d-3acbcb83e8c8
+
+#### **Error incase of Multiple Entry on Same Date**
+https://github.com/user-attachments/assets/b054c2a5-abde-470f-b424-f705d985dcfe
+
+#### **Defect Logging**
+https://github.com/user-attachments/assets/3f34ea8a-efd4-4a66-a98b-7644266066f5
+
+
+#### **Data Append to MySQL Server**
+https://github.com/user-attachments/assets/6957cad9-5fb2-40b3-99d3-3e76f522f29c
+
 
 The data is then sent to a MySQL database for storage.
 
@@ -44,6 +59,9 @@ The MySQL database stores the data collected from the Streamlit application. The
 - `defect`: Description of the defect
 - `part_no`: Part number
 - `quantity`: Quantity of defective parts
+
+#### **Data in MySQL**
+https://github.com/user-attachments/assets/cac91043-b94f-4711-83ea-eb277d743070
 
 ### Power BI Dashboard
 
