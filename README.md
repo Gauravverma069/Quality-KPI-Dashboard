@@ -65,11 +65,26 @@ https://github.com/user-attachments/assets/cac91043-b94f-4711-83ea-eb277d743070
 
 ### Power BI Dashboard
 
+#### **Home/Navigation Page**
+![Screenshot 2024-08-01 120811](https://github.com/user-attachments/assets/f5f55525-60f5-4e29-bee1-d3a21510bfaf)
+
 The Power BI dashboard is used to visualize the data stored in the MySQL database. It provides insights into:
 - Production trends
 - Defect trends
 - Correlation between production output and defects
 - Overall quality performance
+
+#### **Daily Monitoring**
+![Screenshot 2024-08-01 120850](https://github.com/user-attachments/assets/e2f9bf28-3994-4993-9cf1-85e4b3b8158d)
+
+#### **Monthly Monitoring**
+![Screenshot 2024-08-01 121021](https://github.com/user-attachments/assets/0ead2948-e243-4ae3-8804-a8a1c6875326) 
+
+#### **Defect-Wise Quality Trend**
+![Screenshot 2024-08-01 121143](https://github.com/user-attachments/assets/a8d01b85-aa9d-4852-852b-d135d7b728fc)
+
+#### **Pareto Analysis**
+![Screenshot 2024-08-01 121228](https://github.com/user-attachments/assets/03b9ee2f-7e46-4626-9712-9a72bb153c74)
 
 ## Setup and Installation
 
